@@ -143,13 +143,13 @@ A detailed timeline that analyzes how a student performed during a mock exam, in
 
 # 📖 Development Roadmap
 
-* ✅ Phase 1 — Product Requirements Document (PRD)
-* ✅ Phase 2 — UI/UX Design
-* 🔄 Phase 3 — System Architecture
-* ⏳ Phase 4 — Sprint Planning
-* ⏳ Phase 5 — Development
-* ⏳ Phase 6 — User Testing
-* ⏳ Phase 7 — Deployment
+*  Phase 1 — Product Requirements Document (PRD)
+*  Phase 2 — UI/UX Design
+*  Phase 3 — System Architecture
+*  Phase 4 — Sprint Planning
+*  Phase 5 — Development
+*  Phase 6 — User Testing
+*  Phase 7 — Deployment
 
 ---
 
@@ -177,7 +177,7 @@ CEREBRO is currently under active development. Contributions, suggestions, and f
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the MIT License.
 
