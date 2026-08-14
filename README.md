@@ -74,9 +74,7 @@ A premium dashboard that provides:
 
 * Today's mission
 * Readiness score
-* Study streak
-* Progress analytics
-* AI recommendations
+
 
 ---
 
